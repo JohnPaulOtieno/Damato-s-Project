@@ -1,0 +1,38 @@
+
+.Introduction {
+    inline-size: 100%;
+    font-family: Helvetica;
+    font-size: 64px;
+    font-weight: bold;
+    text-align: center;
+    background-image: url();
+}
+
+.Brushes {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.Emphasis {
+    font-weight: bold;
+    color: black;
+}
+
+.Frames {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.Paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
